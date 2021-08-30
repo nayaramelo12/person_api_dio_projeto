@@ -1,9 +1,6 @@
 package one.digitalinnovation.personapi.dto;
 
-import java.time.LocalDate;
 import java.util.List;
-
-
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
